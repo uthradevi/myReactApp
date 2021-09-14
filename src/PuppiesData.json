@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": "1",
+        "name": "Labrador Retriever",
+        "imgUrl": "https://www.dogbreedslist.info/uploads/dog-pictures/labrador-retriever-2.jpg",
+        "price":  "$800 - $1500"
+    },
+    {
+        "id": "2",
+        "name": "French Bulldog",
+        "imgUrl": "https://www.dogbreedslist.info/uploads/dog-pictures/french-bulldog-2.jpg",
+        "price":  "$2000 - $4000"
+    },
+    {
+        "id": "3",
+        "name": "German Shepherd",
+        "imgUrl": "https://www.dogbreedslist.info/uploads/dog-pictures/german-shepherd-dog-2.jpg",
+        "price":  "$800 - $2000"
+    },
+    {
+        "id": "4",
+        "name": "Golden Retriever",
+        "imgUrl": "https://www.dogbreedslist.info/uploads/dog-pictures/golden-retriever-2.jpg",
+        "price":  " $1000 - $2000"
+    },
+    {
+        "id": "5",
+        "name": "Poodle (Standard)",
+        "imgUrl": "https://www.dogbreedslist.info/uploads/dog-pictures/poodle-2.jpg",
+        "price":  "$1200 - $2500"
+    },
+    {
+        "id": "6",
+        "name": "Beagle",
+        "imgUrl": "https://www.dogbreedslist.info/uploads/dog-pictures/beagle-2.jpg",
+        "price":  "$800 - $1500"
+    }
+]
