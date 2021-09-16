@@ -16,6 +16,8 @@ class Hello extends Component {
     const count = "count" + this.props.count;
     this.props.update(count);
     console.log("hello");
+    console.log("hi");
+
   };
   render() {
     return (
